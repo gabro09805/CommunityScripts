@@ -66,7 +66,7 @@ tag_templates = {
 studio_templates = {}
 
 # Change to True to use the default template if no specific tag/studio is found
-use_default_template = False
+use_default_template = True
 # Default template, adjust as needed
 default_template = "$title - $performer - $studio - $height"
 
