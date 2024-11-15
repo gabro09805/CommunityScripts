@@ -68,7 +68,7 @@ studio_templates = {}
 # Change to True to use the default template if no specific tag/studio is found
 use_default_template = False
 # Default template, adjust as needed
-default_template = "$date $title"
+default_template = "$title - $performer - $studio - $height"
 
 ####################################################################
 #           TEMPLATE PATH  (Move your files)
